@@ -1,3 +1,4 @@
+#arguments
 import sys
 
 print "Welcome to Python"
